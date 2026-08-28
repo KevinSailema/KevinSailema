@@ -38,18 +38,6 @@ I'm a **Software Engineer** focused on **Full Stack** development, specialized i
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinSailema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSailema&theme=tokyonight&hide_border=true&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KevinSailema&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinSailema&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 <br/>
 
