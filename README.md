@@ -1,48 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Kevin%20Sailema&fontSize=48&fontColor=ffffff&fontAlignY=52&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=72&descSize=17&descColor=b0b8d4&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102a25,100:526e31&height=180&section=header&text=Kevin%20Sailema&fontSize=48&fontColor=f3f0e5&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=17&descColor=c7f36b" alt="Kevin Sailema — Software Engineer" />
 
-<br/>
+Building thoughtful interfaces, dependable services, and software that delivers value.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KevinSailema)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinSailema)
-[![Ecuador](https://img.shields.io/badge/🇪🇨%20Ecuador-1a1a2e?style=for-the-badge)](https://github.com/KevinSailema)
+[![Portfolio](https://img.shields.io/badge/Portfolio-102a25?style=for-the-badge&logo=vercel&logoColor=white)](https://ksailema.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksailema/)
+[![Email](https://img.shields.io/badge/Email-526e31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailemakevin@gmail.com)
 
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C86FF&center=true&vCenter=true&width=600&lines=Scalable+architectures+from+scratch;Robust+APIs+%2B+polished+interfaces;Backend+%E2%80%A2+Frontend+%E2%80%A2+Mobile+%E2%80%A2+Cloud;Open+Source+Contributor+%F0%9F%8C%8E)
+Quito, Ecuador · Open to software engineering opportunities
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## About me
 
-### 👨‍💻 `$ whoami`
+I'm a **Software Engineer** who enjoys turning complex requirements into maintainable, user-focused solutions. My experience spans the **Software Development Life Cycle (SDLC)**, from architecture and development to testing and deployment.
 
-I'm a **Software Engineer** focused on **Full Stack** development, specialized in designing and building systems from architecture to production deployment. I move comfortably across backend and frontend, work with cloud infrastructure, and actively contribute to open source projects at a global scale.
+I work across backend, frontend, mobile, and cloud technologies, with a focus on clean design, collaboration, and software quality.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## What I work on
 
-<br/>
+- **Backend & APIs** — Java, Spring Boot, C# and .NET services.
+- **Web & mobile** — responsive interfaces with React, Next.js, Angular and mobile technologies.
+- **Quality & delivery** — unit testing, automated checks, CI/CD and production support.
+- **Cloud & infrastructure** — AWS, Docker, Kubernetes and Terraform.
+- **Open source** — contributions involving software quality, security and developer tooling.
 
-### ⚙️ Tech Stack
+## Technologies
+
+**Languages & backend**
+
+![Backend skills](https://skillicons.dev/icons?i=java,cs,dotnet,spring,nodejs,python,fastapi)
+
+**Frontend & mobile**
+
+![Frontend and mobile skills](https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,sass,flutter,kotlin,swift,dart)
+
+**Data, cloud & tools**
+
+![Data and cloud skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,azure,docker,kubernetes,terraform,githubactions,git,linux)
+
+## Selected work
+
+**TRADIS Platform**  
+A transactional platform built with Java, Spring Boot and Angular, using REST APIs and cloud infrastructure provisioned with AWS and Terraform.
+
+**Open-source contributions**  
+Work across projects associated with Microsoft, Apache Maven and NVIDIA, including security improvements, dependency maintenance and test reliability.
+
+**Healthcare system modernization**  
+Full-stack development and historical data migration using .NET, Angular, SQL and MongoDB.
+
+---
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,nodejs,python,express,spring,fastapi,django,graphql,kafka,nginx,react,nextjs,angular,ts,js,html,css,sass,tailwind,redux,vite,webpack,kotlin,flutter,swift,androidstudio,dart,postgres,mongodb,redis,firebase,mysql,sqlite,mssql,aws,docker,kubernetes,terraform,githubactions,linux&perline=13)](https://skillicons.dev)
+Interested in building something meaningful? **Let's connect.**
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<br/>
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=KevinSailema&color=7c3aed&style=flat-square&label=profile+views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+[Portfolio](https://ksailema.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ksailema/) · [Email](mailto:sailemakevin@gmail.com)
 
 </div>
