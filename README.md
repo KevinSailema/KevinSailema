@@ -60,5 +60,6 @@ Full-stack development and historical data migration using .NET, Angular, SQL an
 Interested in building something meaningful? **Let's connect.**
 
 [Portfolio](https://ksailema.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ksailema/) · [Email](mailto:sailemakevin@gmail.com)
+![Viewersl](https://komarev.com/ghpvc/?username=KevinSailema&color=526e31&style=flat-square&label=visitas+al+perfil)
 
 </div>
